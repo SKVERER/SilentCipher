@@ -1,5 +1,6 @@
 streamlit
-numpy
 scipy
+numpy
+pydub
 streamlit-webrtc
 av
